@@ -1,6 +1,7 @@
-Version 1.01.1 (9/29/2023)
-
-Fixes:
+<node> 
+ <patch>
+  <title>Version 1.01.1 (9/29/2023)</title>
+  <desc>Fixes:
 
 - Arcus Armis went to the repair shop! Previously unselectable Magic moves are now selectable.
 - We asked Mira to stop using symbyosis. Removed a bug where using items where Mira is present in the party causes the frontleading character's portrait to be replaced with Mira's.
@@ -15,3 +16,7 @@ Adjustments:
 
 - Yu, nerf: We found that Yu had some chocky milk lying around. This has been confiscated, nerfing V-Surge. (Before: 150 + ATK x 7; After: 140 + ATK x 6.5)
 - General Enemies, buff: Opponents in Zone 6 now have increased DEF. "The heartness. The darkless."
+  </desc>
+  <link>https://renaevum.itch.io/the-vtuber-summit/devlog/613451/patch-v101-is-now-live</link>
+ </patch>
+</node>
