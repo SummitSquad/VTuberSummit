@@ -1,0 +1,17 @@
+Version 1.01.1 (9/29/2023)
+
+Fixes:
+
+- Arcus Armis went to the repair shop! Previously unselectable Magic moves are now selectable.
+- We asked Mira to stop using symbyosis. Removed a bug where using items where Mira is present in the party causes the frontleading character's portrait to be replaced with Mira's.
+- Adjusted a cloud to feel more whole, in Zone 4, Archipelago of Winds, Upper Islands (Trials 37-39).
+- Fixed a bug in Zone 6, Cobalt Vertex, 4F - Waste Plant: After playing VShuffle with Ara Geddon, a warning message would show regarding BGM channels. This is now removed.
+- If any party member used MP-absorption moves such as MP Drain, the game would crash. This is now fixed.
+- HOTFIX: Fixed a door in Zone 6 where it would cause a heavy sequence break.
+- HOTFIX: Fixed a bug in Zone 1 where moving the rock a certain way would cause a softlock.
+
+
+Adjustments:
+
+- Yu, nerf: We found that Yu had some chocky milk lying around. This has been confiscated, nerfing V-Surge. (Before: 150 + ATK x 7; After: 140 + ATK x 6.5)
+- General Enemies, buff: Opponents in Zone 6 now have increased DEF. "The heartness. The darkless."
