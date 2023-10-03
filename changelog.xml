@@ -1,15 +1,15 @@
 <node> 
 <patch>
-  <title>Version 1.02 (10/2/2023)</title>
+  <title>Version 1.02 (10/3/2023)</title>
   <desc>NEW INSTRUCTIONS FOR PATCHING:
 
 You no longer need to manually patch in order to use the latest update.
 
 If you already have downloaded and extracted the base game:
-Download the autoupdater zip file. Extract the contents to the directory where VTuberSummit.exe is. Then, run VTuberSummit.exe to automatically patch and/or run the game.
+Download the Automatic Launcher zip file. Extract the contents to the directory where VTuberSummit.exe is. Then, run VTuberSummit.exe to automatically patch and/or run the game.
 
 If you are downloading the game for the first time ever:
-The autoupdater will already be included in the game files. Follow the normal installation/runtime instructions as provided on the main page and you'll be good to go.
+The Automatic Launcher will already be included in the game files. Follow the normal installation/runtime instructions as provided on the main page and you'll be good to go.
   </desc>
   <link>https://renaevum.itch.io/the-vtuber-summit/devlog/615286/patch-v102-is-now-live</link>
  </patch>
