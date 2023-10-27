@@ -1,12 +1,10 @@
 <node> 
 <patch>
-  <title>Version 1.02 Microupdate 1 (10/6/2023)</title>
-  <desc>There's a lot to type... phew...
-
-Crash fixes, QOL adjustments, VTuber adjustments, and other have been addressed in this patch.
-For a full list of patch notes, please visit the link below!
+  <title>Version 1.03 (10/27/2023)</title>
+  <desc>This will be the final patch before the next DLC!
+  This patch includes a new Boss Rush mode, as well as adjustments, QOL Updates, and additional features!
 
   </desc>
-  <link>https://renaevum.itch.io/the-vtuber-summit/devlog/616781/patch-v102-microupdate-1</link>
+  <link>https://renaevum.itch.io/the-vtuber-summit/devlog/626882/patch-v103-is-now-live</link>
  </patch>
 </node>
